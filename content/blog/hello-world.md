@@ -1,9 +1,9 @@
 ---
 external: false
-draft: true
+draft: false
 title: Hello World
 description: It's a beautiful world out there.
-date: 2022-11-05
+date: 2024-01-15
 ---
 
 It's a beautiful world out there.
